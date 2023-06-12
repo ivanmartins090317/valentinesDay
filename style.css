@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: boder-box;
+  -webkit-font-smoothing: antialised;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+html {
+  font-family: "Dancing Script", cursive;
+  background-color: #111111;
+  text-align: center;
+}
+
+h3 {
+  font-size: 3rem;
+  color: pink;
+  margin: 17% 0 13%;
+}
+button {
+  padding: 1rem;
+  border: none;
+  border-radius: 999px;
+}
+button i {
+  color: #f02894;
+}
